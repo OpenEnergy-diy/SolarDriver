@@ -301,3 +301,6 @@ Reach me:
 ---
 
 <p align="center"><b>⭐ Star this repository if you believe energy should be open.</b></p>
+
+
+Kindly verify
