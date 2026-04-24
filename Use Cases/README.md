@@ -76,12 +76,6 @@ Operate low-power environmental monitoring stations.
 
 12V systems are ideal for medium-power loads, field systems, mobility accessories, and off-grid utilities.
 
-```text
-/12V
-├── off-grid-lighting/
-├── solar-fan/
-└── dc-water-pump/
-```
 
 ---
 
