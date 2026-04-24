@@ -51,8 +51,6 @@ Drive USB LED lamps and low-power lighting systems directly from available sourc
 
 ---
 
-## 🌐 wifi-router-mini/
-
 ### &#x20;
 
 ## 🌡 sensor-station/
