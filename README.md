@@ -70,7 +70,7 @@ At the center is a:
 * Controlled using comparator-based conditional gating
 
 <p align="center">
-  <img src="Concept Illustrations/Drawings_solardriver (3)_page-0001.jpg" width="750">
+  <img src="Concept Illustrations/Frame 84 (3) (1).png" width="750">
 </p>
 
 ---
