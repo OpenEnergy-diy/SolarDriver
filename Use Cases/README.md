@@ -68,8 +68,6 @@ Operate low-power environmental monitoring stations.
 
 ---
 
----
-
 # 📊 Comparative Study – MPPT vs Solar Drive (5V System)
 
 A detailed performance comparison between conventional **MPPT controllers** and the **Solar Drive platform** is available in the dedicated study file.
