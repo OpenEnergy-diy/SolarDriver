@@ -78,7 +78,7 @@ The comparative results demonstrate how Solar Drive can improve direct energy ut
 
 ### 📄 View Full Comparative Report
 
-👉 [MPPT vs Solar Drive Comparative Study](comparison.md)
+👉 [MPPT vs Solar Drive Comparative Study](Comparative Study of the MPPT v Reflex Solar Charge Controller Systems (3).pdf)
 
 ---
 
